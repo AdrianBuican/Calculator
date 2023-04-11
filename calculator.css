@@ -7,7 +7,7 @@
  body {
    padding: 0;
    margin: 0;
-   background: beige;
+   background: linear-gradient(.35turn, #f2e6ff, #e6f7ff);
    display: flex;
    justify-content: center;
    align-items: center;
@@ -39,10 +39,10 @@
  }
  #equal{
    color: #5ad45a;
-   font-size: 2.5rem;
+   font-size: 2.8rem;
  }
  #operand{
-   color: #65edff;
+   color: #3ee9ff;
    font-size: 2.5rem;
  }
  
@@ -56,7 +56,7 @@
  
  .output {
    grid-column: 1 / -1;
-   background-color: #f0f0f0;
+   background-color: white;
    color: black;
    display: flex;
    align-items: flex-end;
