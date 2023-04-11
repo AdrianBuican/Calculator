@@ -37,10 +37,12 @@
  #del, #ac{
    color: #fd6890;
  }
+
  #equal{
    color: #5ad45a;
    font-size: 2.8rem;
  }
+
  #operand{
    color: #3ee9ff;
    font-size: 2.5rem;
